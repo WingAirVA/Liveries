@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">Wing Air</name>
+				<texture>Liveries-ADV/WNG.png</texture>
+			</livery>
+			<eng>
+				<texture>Liveries-ADV/WNG-eng.png</texture>
+			</eng>
+		</model>
+	</sim>
+</PropertyList>
